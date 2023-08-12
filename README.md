@@ -38,3 +38,18 @@
 
 `$ git log`
 
+## Проверить наличие удаленного репозитория (Github)
+
+`$ git remote show origin`
+
+## Можно удалить origin
+
+`$ git remote rm origin`
+
+## Добавить удаленный репозиторий
+
+`$ git remote add origin https://github.com/username/repository_name.git`
+
+## Отправляем коммиты на Github (ветка main)
+
+`$ git push origin main`
