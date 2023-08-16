@@ -53,3 +53,19 @@
 ## Отправляем коммиты на Github (ветка main)
 
 `$ git push origin main`
+
+## При первом скачивании проекта с Github делаем его клон (выполняется один раз)
+
+`$ git clone https://github.com/username/repository_name.git`
+
+## Переходим в папку repository_name
+
+`$ cd repository_name`
+
+## Открываем папку в VS code
+
+`$ code .`
+
+## Для скачивания обновлений с Github в уже существующий репозиторий
+
+`$ git pull origin main`
