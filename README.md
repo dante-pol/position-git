@@ -73,3 +73,7 @@
 ## Совмещенная команда git add и git commit
 
 `$ git commit -am "Commit text"`
+
+## В случае ошибки push можно использовать флаг --force
+
+`$ git push pages main --force`
