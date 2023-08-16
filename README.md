@@ -69,3 +69,7 @@
 ## Для скачивания обновлений с Github в уже существующий репозиторий
 
 `$ git pull origin main`
+
+## Совмещенная команда git add и git commit
+
+`$ git commit -am "Commit text"`
